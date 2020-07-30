@@ -18,5 +18,5 @@
 </table>
 -->
 
-  <img src="assets/earthwormjim2.png"/>
+  <img src="https://github.com/delbetu/delbetu/blob/master/assets/earthwormjim2.png?raw=true"/>
 
