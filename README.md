@@ -18,5 +18,14 @@
 </table>
 -->
 
-  <img src="https://github.com/delbetu/delbetu/blob/master/assets/earthwormjim2.png?raw=true"/>
+# M.Bellucci
+
+## Software Detective
+
+I learn how your system work so I can modify it.  
+Adating it to suppot new requirements without breaking existing ones.  
+Or fix existing behavior.
+
+
+<img src="https://github.com/delbetu/delbetu/blob/master/assets/earthwormjim2.png?raw=true"/>
 
