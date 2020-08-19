@@ -22,8 +22,9 @@
 
 ## Software Detective
 
-I learn how your system work so I can modify it.  
-Adating it to suppot new requirements without breaking existing ones.  
-Or fix existing behavior.
+How good are your devs on investigating problems?
+isn't that an essential developer skill?
+I can learn how your system works and adapt it to support new requirements without breaking existing ones.
+I can also recognize and fix existing wrong behavior.
 
 ---------------
