@@ -22,9 +22,9 @@
 
 ## Software Detective
 
-How good are your devs on investigating problems?
-isn't that an essential developer skill?
-I can learn how your system works and adapt it to support new requirements without breaking existing ones.
-I can also recognize and fix existing wrong behavior.
+How good are your devs on investigating problems?  
+isn't that an essential developer skill?  
+I can learn how your system works and adapt it to support new requirements without breaking existing ones.  
+I can also recognize and fix existing wrong behavior.  
 
 ---------------
