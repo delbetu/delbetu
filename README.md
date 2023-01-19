@@ -20,11 +20,12 @@
 
 # M.Bellucci
 
-## Software Detective
+## Software Engineer
 
-How good are your devs on investigating problems?  
-isn't that an essential developer skill?  
-I can learn how your system works and adapt it to support new requirements without breaking existing ones.  
-I can also recognize and fix existing wrong behavior.  
+2005-2012 Bachelor of Computer Science, [Universidad de la Republica](https://udelar.edu.uy/portal/2019/02/ingenieria-en-computacion/).  
+2010-2014 Junior Engineer + Teaching.  
+2014-2021 Senior Engineer for U.S. companies through Outsourcing Companies.  
+2021-*    Senior Engineer/Lead for U.S. companies as Contractor.  
+
 
 ---------------
