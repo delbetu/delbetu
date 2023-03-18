@@ -17,15 +17,13 @@
 </tr>
 </table>
 -->
+Currentyl working as Fullstack React-Rails.  
+Interested in learning Rust or Elixir.  
 
-# M.Bellucci
-
-## Software Engineer
-
-2005-2012 Bachelor of Computer Science, [Universidad de la Republica](https://udelar.edu.uy/portal/2019/02/ingenieria-en-computacion/).  
-2010-2014 Junior Engineer + Teaching.  
-2014-2021 Senior Engineer for U.S. companies through Outsourcing Companies.  
-2021-*    Senior Engineer/Lead for U.S. companies as Contractor.  
+- 2005-2012 Bachelor of Computer Science, [Universidad de la Republica](https://udelar.edu.uy/portal/2019/02/ingenieria-en-computacion/).  
+- 2010-2014 Junior Engineer + Teaching.  
+- 2014-2021 Senior Engineer for U.S. companies through Outsourcing Companies.  
+- 2021-*    Senior Engineer/Lead for U.S. companies as Contractor.  
 
 
 ---------------
