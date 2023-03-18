@@ -17,13 +17,14 @@
 </tr>
 </table>
 -->
-Currentyl working as Fullstack React-Rails.  
-Interested in learning Rust or Elixir.  
+10+ years building web-based SASS software products for U.S. startups.   
+Currently working as Lead Software Engineer, fullstack Rails-React at [Occupier](https://www.occupier.com/).   
+Interested in learning Rust or Elixir in the future.  
 
 - 2005-2012 Bachelor of Computer Science, [Universidad de la Republica](https://udelar.edu.uy/portal/2019/02/ingenieria-en-computacion/).  
-- 2010-2014 Junior Engineer + Teaching.  
-- 2014-2021 Senior Engineer for U.S. companies through Outsourcing Companies.  
-- 2021-*    Senior Engineer/Lead for U.S. companies as Contractor.  
+- 2010-2014 Junior Software Engineer + Teaching.  
+- 2014-2021 Mid/Senior Software Engineer for U.S. companies through Outsourcing Companies.  
+- 2021-*    Senior/Lead Software Engineer for U.S. companies as Contractor.  
 
 
 ---------------
